@@ -3,4 +3,4 @@ certs/*.crt
 certs/*.csr
 certs/*.srl
 certs/*.pem
-.idea
+.idea/
